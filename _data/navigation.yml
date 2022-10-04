@@ -13,9 +13,9 @@
 - text: Resources
   menu: # Dropdown menu (one level deep only)
   - text: Deliverables
-    href: /installation/
+    href: /deliverables/
   - text: Dissemination and Communication
-    href: /configuration/
+    href: /dissemination/
   - text: "---"
   - text: External link to GitHub
     href: https://github.com/aigov-elidek/aigov/
