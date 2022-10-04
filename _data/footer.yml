@@ -13,9 +13,8 @@ columns:
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
+      The research project was supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the "2nd Call for H.F.R.I." Research Projects to support Faculty Members & Researchers (Project Number: +++).
+    
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
