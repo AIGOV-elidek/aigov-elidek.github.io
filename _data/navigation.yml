@@ -6,8 +6,8 @@
   menu: # Dropdown menu (one level deep only)
   - text: Overview
     href: /about/
-  - text: Goals and Objectives
-    href: /about/
+  - text: Objectives
+    href: /goals/
 - text: Research Team
   href: /team/
 - text: Resources
