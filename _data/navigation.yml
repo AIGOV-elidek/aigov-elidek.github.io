@@ -6,18 +6,14 @@
   href: /about/
 - text: Team
   href: /team/
-- text: Blog
+- text: Contact
   href: /blog/
-- text: Documentation
+- text: Resources
   menu: # Dropdown menu (one level deep only)
-  - text: Installation
+  - text: Deliverables
     href: /installation/
-  - text: Configuration
+  - text: Dissemination and Communication
     href: /configuration/
-  - text: Markdown
-    href: /markdown/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
   - text: External link to GitHub
-    href: https://github.com/peterdesmet/petridish/
+    href: https://github.com/aigov-elidek/aigov/
     new_window: true
