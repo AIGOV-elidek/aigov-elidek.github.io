@@ -1,24 +1,25 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
+- name: Prof. Konstantinos Tarabanis
+  role: PI # Will appear next to name
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_name
+    Professor at the Department of Business Administration, University of Macedonia Greece.
+  orcid: 0000-0002-4663-2113
   twitter: twitter_name
   github: github_name
-  email: your.email@example.com
-
-- name: Turanga Leela
-  role: Captain
+  email: kat@uom.edu.gr
+  
+- name: Ms. Areti Karamanou
+  role: Researcher
   description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+    PhD candidate at the University of Macedonia, Greece
+  orcid: 0000-0003-2357-9169
+  email: akarm@uom.edu.gr
+  twitter: twitter_name
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+- name: Mr. Dimitrios Zeginis
+  role: Researcher
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    PhD candidate at the University of Macedonia, Greece
+  email: zeginis@uom.edu.gr
