@@ -17,7 +17,7 @@
   image: assets/theme/images/karamanou.jfif
   orcid: 0000-0003-2357-9169
   email: akarm@uom.edu.gr
-  twitter: twitter_name
+  twitter: aretikaramanou
 
 - name: Mr. Dimitrios Zeginis
   role: Researcher
@@ -25,6 +25,7 @@
   description: >
     PhD candidate at the University of Macedonia, Greece
   email: zeginis@uom.edu.gr
+  twitter: d_zeginis
   
 - name: Ms. Antonia Psaltou
   role: Dissemination and Exploitation
