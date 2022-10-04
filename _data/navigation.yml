@@ -10,8 +10,6 @@
     href: /about/
 - text: Research Team
   href: /team/
-- text: Contact
-  href: /blog/
 - text: Resources
   menu: # Dropdown menu (one level deep only)
   - text: Deliverables
