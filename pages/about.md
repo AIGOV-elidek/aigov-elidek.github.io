@@ -5,15 +5,11 @@ background: https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixid=Mn
 permalink: /about/
 ---
 
-This is a default page. See [configuration]({{ '/configuration/' | relative_url }}) to learn more about **pages**.
+The **vision of the AIGOV** project is to facilitate the implementation of fair, ethical, trustworthy, and robust, both from a technical and social perspective, Artificial Intelligence (AI) systems in Public Administration (PA) with a focus on users and those who may be affected. AIGOV envisions the wide exploitation of **AI technologies** in PA using the wealth of available **government data** (both open and closed data), while at the same time at maximizing social benefits, empowering PA employees, and mitigating relevant risks related to **ethics, privacy, security and legislation**, as well as AI transparency, understanding, and accuracy. AIGOV will enable PA to develop **pathways** for the adoption of AI, while also addressing the societal challenges and risks to be raised and establishing safeguards against bias and unfairness.
 
-To remove this page, you need to:
-
-- Remove `pages/about.md`
-- Update `_data/navigation.yml` to remove the link to this page from the top navigation.
-
-## Some gibberish
-
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
-
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+## Work Packages
+- WP1 - **Stakeholders needs & AIGOV Ecosystem** (M1-M12)
+- WP2 - **AIGOV Holistic Framework** (M13-M24)
+- WP3 - **Pilot & Evaluation** (M22-M36)
+- WP4 - **Dissemination & Exploitation** (M1-M36)
+- WP5 - **Project Management** (M1-M36)
