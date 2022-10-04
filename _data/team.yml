@@ -10,8 +10,8 @@
   email: kat@uom.edu.gr
   
 - name: Asst. Prof. Evangelos Kalampokis
-  role: Reseracher
-  image: assets/theme/images/kat.jpg # Can be external link
+  role: Reseacher
+  image: assets/theme/images/ekal.jpg # Can be external link
   description: > # Can be Markdown
     Assistant Professor at the Department of Business Administration, University of Macedonia Greece.
   orcid: 0000-0003-4416-8764
