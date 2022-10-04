@@ -3,7 +3,11 @@
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
 - text: About
-  href: /about/
+  menu: # Dropdown menu (one level deep only)
+  - text: Overview
+    href: /about/
+  - text: Goals and Objectives
+    href: /about/
 - text: Research Team
   href: /team/
 - text: Contact
