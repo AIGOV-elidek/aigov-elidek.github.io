@@ -6,3 +6,8 @@ permalink: /dissemination/
 ---
 
 This page will present the the AIGOV Dissemination and Communication efforts.
+
+No | Title | Date
+:---: | :---: |  :---: 
+ |  |
+ |  |
