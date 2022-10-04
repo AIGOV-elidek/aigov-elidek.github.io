@@ -3,7 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description:
+  - description: >
     ![alt text](en.jpg)
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
