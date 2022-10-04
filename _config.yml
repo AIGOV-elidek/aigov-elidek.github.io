@@ -9,7 +9,7 @@ baseurl: "/aigov"                   # Only required if your site is in a directo
 # SOCIAL PROFILES
 email: your.email@example.com           # Social icon in footer
 twitter_username: AIGOV_elidek           # Social icon in footer
-github_username: AIGOV_elidek            # Social icon in footer
+github_username: AIGOV-elidek            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 0                        # Show x number of latest posts on homepage, can be 0
