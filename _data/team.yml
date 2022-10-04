@@ -2,7 +2,7 @@
 
 - name: Prof. Konstantinos Tarabanis
   role: PI # Will appear next to name
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  image: assets/theme/images/kat.jpg # Can be external link
   description: > # Can be Markdown
     Professor at the Department of Business Administration, University of Macedonia Greece.
   orcid: 0000-0002-4663-2113
