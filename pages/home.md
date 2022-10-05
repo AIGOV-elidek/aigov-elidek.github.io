@@ -2,7 +2,7 @@
 layout: home
 title: AIGOV
 description: Implementing ethical, trustworthy and fair Artificial Intelligence Systems in Public Sector
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+background: /assets/theme/images/21772.jpg
 permalink: /
 ---
 
