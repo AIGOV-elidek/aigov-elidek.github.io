@@ -31,6 +31,7 @@
 - name: Mr. Dimitrios Zeginis
   role: Researcher
   image: assets/theme/images/zeginis.jpg
+  orcid: 0000-0002-5426-4031
   description: >
     PhD candidate at the University of Macedonia, Greece
   email: zeginis@uom.edu.gr
@@ -44,5 +45,7 @@
 
 - name: the Region of Central Macedonia
   role: Collaborating Organisation
+  image: aassets/theme/images/pkm_logo.png
   description: >
     Public employees from the Region of Central Macedonia will mainly contribute in WP1 and WP4.
+  email: periferiarxis@pkm.gov.gr
