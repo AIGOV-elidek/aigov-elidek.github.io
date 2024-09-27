@@ -21,7 +21,7 @@
   
 - name: Dr. Maria Zotou
   role: Reseacher
-  image: assets/theme/images/zotou.jpg # Can be external link
+  image: assets/theme/images/zotou.png # Can be external link
   description: > # Can be Markdown
     Pos-Doc Researcher
   orcid: 0000-0001-8987-8183
