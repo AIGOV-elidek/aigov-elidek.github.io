@@ -7,8 +7,8 @@ permalink: /dissemination/
 
 This page will present the the AIGOV Dissemination and Communication efforts.
 
-- The article entitled "An Ecosystem for Deploying Artificial Intelligence in the Public Sector" was presented on 05.09.2023 at the EGOV2023 – IFIP EGOV-CeDEM-EPART 2023 organised by the Corvinus University of Budapest:\n
-   ![Image](/assets/theme/images/egov23_2_resized.jpg)
+- The article entitled "An Ecosystem for Deploying Artificial Intelligence in the Public Sector" was presented on 05.09.2023 at the EGOV2023 – IFIP EGOV-CeDEM-EPART 2023 organised by the Corvinus University of Budapest: 
+   <br /> ![Image](/assets/theme/images/egov23_2_resized.jpg)
 - Presentation in terms of the course “Innovation and Change in Public Management” of the postgraduate program Master in Public Management of the University of Macedonia. 22.03.2023. Online.
 - 1st AIGOV workshop. 23.11.2023. University of Macedonia
    - ![Image](/assets/theme/images/egov23_2.jpg)
