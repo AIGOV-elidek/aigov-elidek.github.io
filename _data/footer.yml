@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: >
-      ![logo](aigov-elidek.github.io/assets/theme/images/en.jpg)
+      ![logo](https://github.com/AIGOV-elidek/aigov-elidek.github.io/blob/main/assets/theme/images/en.jpg)
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       The research project was supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the "2nd Call for H.F.R.I." Research Projects to support Faculty Members & Researchers (Project Number: 2412).
