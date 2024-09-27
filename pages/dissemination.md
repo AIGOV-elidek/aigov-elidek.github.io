@@ -11,5 +11,5 @@ No | Title | Date | Location
 :---: | :---: |  :---: |  :---: 
 1 | Presentation of the article "An Ecosystem for Deploying Artificial Intelligence in the Public Sector". |  05.09.2023 | EGOV2023 – IFIP EGOV-CeDEM-EPART 2023, Corvinus University of Budapest
 2 | Presentation in terms of the course “Innovation and Change in Public Management” of the postgraduate program Master in Public Management of the University of Macedonia. | 22.03.2023 | Online
-3 | 1st AIGOV workshop | 23/11/2023 | University of Macedonia
+3 | 1st AIGOV workshop | 23.11.2023 | University of Macedonia
 
