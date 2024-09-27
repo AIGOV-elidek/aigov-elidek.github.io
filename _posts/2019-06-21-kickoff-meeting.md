@@ -5,3 +5,4 @@ background: "https://images.unsplash.com/photo-1558441440-d4111d18d48f?ixid=eyJh
 ---
 
 This post has a portrait background image to test if it still renders nicely.
+[!Image](/assets/theme/images/eGOV2024_resized)
