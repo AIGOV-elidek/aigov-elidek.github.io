@@ -14,8 +14,6 @@
   menu: # Dropdown menu (one level deep only)
   - text: Deliverables
     href: /deliverables/
-  - text: Dissemination and Communication
-    href: /dissemination/
   - text: Publications
     href: /publications/
   - text: "---"
